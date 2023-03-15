@@ -1,6 +1,6 @@
 ### Hi there 👋
-- My name is Miora, i come from Fianarantsoa
--I still study in ENI (Ecole Nation d'Informatique)
+- My name is Miora, i come from Fianarantsoa/n
+-I still study in ENI (Ecole Nation d'Informatique)\n
 -I wanna be a  Web Developper 
 - If you just want to join me: ttmiora@gmail.com
 
