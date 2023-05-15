@@ -1,8 +1,8 @@
 ### Hi there 👋
 - My name is Miora, i come from Fianarantsoa,
-I still study in ENI (Ecole Nation d'Informatique),
+I still study in ENI (Ecole National d'Informatique),
 I wanna be a  Web Developper, 
--If you just want to join me: ttmiora@gmail.com,
+-If you just want to join me: ttnmiora@gmail.com,
 
 <!--
 **mioraTatiana/mioraTatiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
